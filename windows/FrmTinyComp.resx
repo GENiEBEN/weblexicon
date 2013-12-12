@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Text1.Text" xml:space="preserve">
+    <value>&lt;!--this is a comment--&gt;&lt;html lang="en"&gt;
+/*CSS Style Comment*/
+body{color:#FFF;}
+[url="http://www.google.ro"]BBC Code[/url]
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"&gt;
+	&lt;head&gt;
+		&lt;title&gt;GEP&lt;/title&gt;
+		&lt;meta http-equiv="Content-Type" content="text/html; charset=us-ascii"/&gt;
+		&lt;link href="../scripts/gamingportal.css" rel="stylesheet" type="text/css"/&gt;
+		&lt;script src="../scripts/hoverpic.js" type="text/javascript"&gt;&lt;/script&gt;
+	&lt;/head&gt;
+	&lt;body class="mainpage" onLoad="MM_preloadImages('../images/returntotop.png','../images/returntotop_h.png'"&gt;
+		&lt;div id="body"&gt;
+			&lt;div id="menus"&gt;
+			&amp;nbsp;&lt;a href="mainpage_c.htm" target="mainFrame" name="home"&gt;Home&lt;/a&gt; | &lt;a href="http://www.gamersfiles.net/forum/index.php"&gt;Forums&lt;/a&gt; | &lt;a href="search.htm"&gt;Search&lt;/a&gt; | &lt;a href="feeds.htm"&gt;RSS feeds&lt;/a&gt; | &lt;a href="contact.htm"&gt;Contact us&lt;/a&gt;
+			&lt;/div&gt;
+			&lt;div id="top"&gt;
+				&lt;a href="mainpage_c.htm" target="mainFrame"&gt;&lt;img src="../images/sitelogo.jpg" align="right" title="GENiEBEN's Entertainment Portal" alt="Site Logo"/&gt;&lt;/a&gt;
+			&lt;/div&gt;
+			&lt;div id="location"&gt;
+			&amp;nbsp;Location: &lt;a href="mainpage_c.htm" target="mainFrame"&gt;&lt;b&gt;Home&lt;/b&gt;&lt;/a&gt;&amp;nbsp;&lt;a href="javascript:window.external.AddFavorite('http://www.genieben.net/en/index.htm', 'GENiEBEN.net HomePage')"&gt;+&lt;/a&gt;
+			&lt;/div&gt;
+			&lt;div id="maincontent"&gt; 
+				&lt;table class="wrapper" cellspacing="0" cellpadding="0"&gt;
+					&lt;tr&gt;
+						&lt;td class="leftpanel" width="130px" valign="top"&gt;
+							&lt;table class="nav_items" CELLSPACING="0" CELLPADDING="0" style="line-height:12px;"&gt;
+								&lt;tr&gt;&lt;td class="heavy" style="line-height:16px;" &gt;&amp;nbsp;Games&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="pc/index.htm"&gt;&lt;img src="../images/icons/dot_pc.gif" title="Windows"/&gt;&amp;nbsp;PC Windows&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="linux/index.htm"&gt;&lt;img src="../images/icons/dot_linux.gif" title="Linux"/&gt;&amp;nbsp;PC Linux&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="mac/index.htm"&gt;&lt;img src="../images/icons/dot_mac.gif" title="Macintosh"/&gt;&amp;nbsp;Macintosh&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="ps1/index.htm"&gt;&lt;img src="../images/icons/dot_ps1.gif" title="PlayStation One"/&gt;&amp;nbsp;Playstation&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="ps2/index.htm"&gt;&lt;img src="../images/icons/dot_ps2.gif" title="PlayStation 2"/&gt;&amp;nbsp;Playstation 2&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="ps3/index.htm"&gt;&lt;img src="../images/icons/dot_ps3.gif" title="PlayStation 3"/&gt;&amp;nbsp;Playstation 3&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="psp/index.htm"&gt;&lt;img src="../images/icons/dot_psp.gif" title="PlayStation Portable"/&gt;&amp;nbsp;Playstation Portable&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="xbox/index.htm"&gt;&lt;img src="../images/icons/dot_xbox.gif" title="XBOX"/&gt;&amp;nbsp;XBOX&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="x360/index.htm"&gt;&lt;img src="../images/icons/dot_x360.gif" title="XBOX 360"/&gt;&amp;nbsp;XBOX 360&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="wii/index.htm"&gt;&lt;img src="../images/icons/dot_wii.gif" title="Wii"/&gt;&amp;nbsp;Nintendo Wii&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="ds/index.htm"&gt;&lt;img src="../images/icons/dot_ds.gif" title="DS"/&gt;&amp;nbsp;Nintendo DS&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="gc/index.htm"&gt;&lt;img src="../images/icons/dot_gc.gif" title="GameCube"/&gt;&amp;nbsp;Nintendo GameCube&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="nes/index.htm"&gt;&lt;img src="../images/icons/dot_snes.gif" title="NES / SNES"/&gt;&amp;nbsp;NES / SNES&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="mobile/index.htm"&gt;&lt;img src="../images/icons/dot_mobile.gif" title="Mobile Phone"/&gt;&amp;nbsp;Mobile&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;							
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="gb/index.htm"&gt;&lt;img src="../images/icons/dot_gb.gif" title="Gameboy"/&gt;&amp;nbsp;Gameboy&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="older/index.htm"&gt;&lt;img src="../images/icons/dot_misc.gif" title="A2600, N64 and older."/&gt;&amp;nbsp;Older Consoles&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td&gt;&lt;div class="hr"&gt;&lt;hr/&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+							&lt;/table&gt;
+							&lt;table class="nav_items" CELLSPACING="0" CELLPADDING="0" style="line-height:12px;"&gt;
+								&lt;tr&gt;&lt;td class="heavy"&gt;&amp;nbsp;Misc Content&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="soft/index.htm"&gt;Software&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="devices/index.htm"&gt;Devices &amp; Hardware&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="movies/index.htm"&gt;Movies&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="sports/index.htm"&gt;Sports&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="cars/index.htm"&gt;Cars&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="light"&gt;&amp;nbsp;&lt;a href="babes/index.htm"&gt;Babes&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td&gt;&lt;div class="hr"&gt;&lt;hr/&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+							&lt;/table&gt;
+						&lt;table class="featuredsite" border="0"&gt;
+								&lt;tr&gt;&lt;td valign="top"&gt;&lt;a href="http://www.gamersfiles.net"&gt;&lt;img src="../images/afills/gamersfiles.gif" title="GamersFiles.net" alt="Affiliate #1"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td&gt;The awesome gaming files mirror.&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td&gt;&lt;a href="http://www.gamespy.com"&gt;&lt;img src="../images/afills/gamespy.gif" title="GameSpy.com" alt="Affiliate #2"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td&gt;Games with a multiplayer slant.&lt;/td&gt;&lt;/tr&gt;
+							&lt;/table&gt;
+						&lt;/td&gt;
+						&lt;td class="content" valign="top"&gt;
+							&lt;table class="mytable"&gt;
+								&lt;tr&gt;&lt;td class="header" id="heavy"&gt;News&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="subheader"&gt;&amp;nbsp;Updated every 10 minutes. All times are GMT+2&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="news" style="border-top:none;"&gt;         &lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="../images/icons/icon_hot.gif" alt="hot" title="Hot! news"&gt;&lt;/td&gt;&lt;td width="20px"&gt;04.feb 10:11&lt;/td&gt;&lt;td&gt;&lt;table&gt;&lt;tr&gt;&lt;td id="1"&gt;PS2: &lt;a href="#"&gt;SingStar '90s Screens&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;I've been kissed by a rose on the grave.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="news" id="alt"&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="../images/icons/icon_hot.gif" alt="hot" title="Hot! news"&gt;&lt;/td&gt;&lt;td width="20px"&gt;04.feb 10:46&lt;/td&gt;&lt;td&gt;&lt;table&gt;&lt;tr&gt;&lt;td id="1"&gt;X360: &lt;a href="#"&gt;Rock Band content from B-52, Faith No More, and KISS&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Harmonix and MTV Games announce the latest slate of downloadable tracks for Xbox Live and the PS Store.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="news"&gt;		  &lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="../images/icons/icon_hot.gif" alt="hot" title="Hot! news"&gt;&lt;/td&gt;&lt;td width="20px"&gt;04.feb 10:48&lt;/td&gt;&lt;td&gt;&lt;table&gt;&lt;tr&gt;&lt;td id="1"&gt;X360: &lt;a href="#"&gt;Spend More Time in Paradise&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;EA will extend the online time in demo.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="news" id="alt"&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;&lt;td width="20px"&gt;04.feb 10:52&lt;/td&gt;&lt;td&gt;&lt;table&gt;&lt;tr&gt;&lt;td id="1"&gt;TV: &lt;a href="#"&gt;Wrestling Wrap Up: Results from 1/28 - 2/3&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;John Cena returns at Rumble and NWA Showcase premieres on Dish Network.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="footer"&gt;&lt;a href="feeds.htm"&gt;&lt;img src="../images/icons/rss.gif" alt="RSS" title="RSS Feeds"&gt; Sign Up for RSS feeds from this site&lt;/a&gt; | &lt;a href="news.htm"&gt;View more news.&lt;/a&gt; | &lt;a href="mynews.htm"&gt;Submit news&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+							&lt;/table&gt;
+							&lt;table class="latestgames"&gt;
+								&lt;tr&gt;
+									&lt;td&gt;&lt;table id="gamespace"&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="../images/stars/5.gif" title="Remember to rate this item" alt="5 Stars"/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="pc/w/wi/wit/index.htm"&gt;&lt;img src="../images/box/1.jpg" class="latestupd" id="box" title="Witcher, The" alt="Box Cover"/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="pc/index.htm"&gt;&lt;img src="../images/icons/dot_pc.gif" alt="pc" title="PC"/&gt;&lt;/a&gt;&amp;nbsp;&lt;a href="pc/w/wi/wit/index.htm"&gt;Witcher, The&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+									&lt;td&gt;&lt;table id="gamespace"&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="../images/stars/5.gif" title="Remember to rate this item" alt="5 Stars"/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="pc/c/ca/cal/index.htm"&gt;&lt;img src="../images/box/2.jpg" class="latestupd" id="box" title="Call of Duty 4: Modern War" alt="Box Cover"/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="pc/index.htm"&gt;&lt;img src="../images/icons/dot_pc.gif" alt="pc" title="PC"/&gt;&lt;/a&gt;&amp;nbsp;&lt;a href="pc/c/ca/cal/index.htm"&gt;Call of Duty 4 MW&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+									&lt;td&gt;&lt;table id="gamespace"&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="../images/stars/5.gif" title="Remember to rate this item" alt="5 Stars"/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="pc/c/cr/cry/index.htm"&gt;&lt;img src="../images/box/3.jpg" class="latestupd" id="box" title="Crysis" alt="Box Cover"/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="pc/index.htm"&gt;&lt;a href="pc/index.htm"&gt;&lt;img src="../images/icons/dot_pc.gif" alt="pc" title="PC"/&gt;&lt;/a&gt;&amp;nbsp;&lt;a href="pc/c/cr/cry/index.htm"&gt;Crysis&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+									&lt;td&gt;&lt;table id="gamespace"&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="../images/stars/5.gif" title="Remember to rate this item" alt="5 Stars"/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="pc/c/co/com/index.htm"&gt;&lt;img src="../images/box/4.jpg" class="latestupd" id="box" title="Command and Conquer 3: Tiberium Wars - Kane Edition" alt="Box Cover"/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="pc/index.htm"&gt;&lt;img src="../images/icons/dot_pc.gif" alt="pc" title="PC"/&gt;&amp;nbsp;&lt;/a&gt;&lt;a href="pc/c/co/com/index.htm"&gt;C&amp;C 3 TW: Kane&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+							&lt;table class="mytable"&gt;
+								&lt;tr&gt;&lt;td class="header" id="heavy"&gt;Latest Files&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="subheader"&gt;Updated every 10 minutes. All times are GMT+2&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="news" style="border-top:none;"&gt;         &lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="../images/icons/icon_hot.gif"&gt;&lt;/td&gt;&lt;td width="20px"&gt;05.feb 01:04&lt;/td&gt;&lt;td&gt;&lt;table&gt;&lt;tr&gt;&lt;td id="1"&gt;PC: &lt;a href="#"&gt;Need For Speed ProStreet&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;No Intros Patch&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="news" id="alt"&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="../images/icons/icon_hot.gif"&gt;&lt;/td&gt;&lt;td width="20px"&gt;05.feb 01:03&lt;/td&gt;&lt;td&gt;&lt;table&gt;&lt;tr&gt;&lt;td id="1"&gt;X360: &lt;a href="#"&gt;HALO 3&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Screenshots&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="news"&gt;		  &lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="../images/icons/icon_hot.gif"&gt;&lt;/td&gt;&lt;td width="20px"&gt;05.feb 01:00&lt;/td&gt;&lt;td&gt;&lt;table&gt;&lt;tr&gt;&lt;td id="1"&gt;PC: &lt;a href="#"&gt;Jagged Alliance 2&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mod Pack JA2 1.13 NI10.2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="news" id="alt"&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;&lt;td width="20px"&gt;04.feb 00:59&lt;/td&gt;&lt;td&gt;&lt;table&gt;&lt;tr&gt;&lt;td id="1"&gt;PC: &lt;a href="#"&gt;Carmageddon 1&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Full Game Download&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="news"&gt;		  &lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="../images/icons/icon_hot.gif"&gt;&lt;/td&gt;&lt;td width="20px"&gt;04.feb 00:57&lt;/td&gt;&lt;td&gt;&lt;table&gt;&lt;tr&gt;&lt;td id="1"&gt;DS: &lt;a href="#"&gt;Paws &amp; Claws: Pet Resort&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Screenshots&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="news" id="alt"&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src="../images/icons/icon_hot.gif"&gt;&lt;/td&gt;&lt;td width="20px"&gt;04.feb 11:05&lt;/td&gt;&lt;td&gt;&lt;table&gt;&lt;tr&gt;&lt;td id="1"&gt;X360: &lt;a href="#"&gt;HALO 3&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Screenshots&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="footer"&gt;&lt;a href="feeds.htm"&gt;&lt;img src="../images/icons/rss.gif" alt="RSS" title="RSS Feeds"&gt; Sign Up for RSS feeds from this site&lt;/a&gt; | &lt;a href="news.htm"&gt;View more new files&lt;/a&gt; | &lt;a href="mynews.htm"&gt;Submit files&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+							&lt;/table&gt;
+						&lt;/td&gt;
+						&lt;td class="rightpanel" valign="top" width="100px"&gt;
+							&lt;table class="mytable"&gt;
+								&lt;tr&gt;&lt;td class="header" id="heavy"&gt;Most Popular&lt;/td&gt;&lt;td class="header" id="light"&gt;11 feb&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="subheader" width="300px"&gt;Based on pageviews&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="item"&gt;&amp;nbsp;&amp;nbsp;1 &lt;a href="#"&gt;Devil May Cry&lt;/a&gt;&lt;/td&gt;&lt;td style="width:35px;"&gt;&amp;nbsp;&lt;a href="x360/index.htm"&gt;&lt;img src="../images/icons/x360.gif" alt="X360" title="XBOX360 Games"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="item" id="alt"&gt;&amp;nbsp;&amp;nbsp;2 &lt;a href="#"&gt;Call of Duty 4&lt;/a&gt;&lt;/td&gt;&lt;td style="background:#EEE;width:35px;"&gt;&amp;nbsp;&lt;a href="pc/index.htm"&gt;&lt;img src="../images/icons/pc.gif" alt="PC" title="PC Games"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="item"&gt;&amp;nbsp;&amp;nbsp;3 &lt;a href="#"&gt;Master Chief&lt;/a&gt;&lt;/td&gt;&lt;td style="width:35px;"&gt;&amp;nbsp;&lt;a href="pc/index.htm"&gt;&lt;img src="../images/icons/pc.gif" alt="PC" title="PC Games"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="item" id="alt"&gt;&amp;nbsp;&amp;nbsp;4 &lt;a href="#"&gt;Alone in Dark 4&lt;/a&gt;&lt;/td&gt;&lt;td style="background:#EEE;width:35px;"&gt;&amp;nbsp;&lt;a href="pc/index.htm"&gt;&lt;img src="../images/icons/pc.gif" alt="PC" title="PC Games"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="item"&gt;&amp;nbsp;&amp;nbsp;5 &lt;a href="#"&gt;Need For Speed ProStreet&lt;/a&gt;&lt;/td&gt;&lt;td style="width:35px;"&gt;&amp;nbsp;&lt;a href="pc/index.htm"&gt;&lt;img src="../images/icons/pc.gif" alt="PC" title="PC Games"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="item" id="alt"&gt;&amp;nbsp;&amp;nbsp;6 &lt;a href="#"&gt;HALO 3&lt;/a&gt;&lt;/td&gt;&lt;td style="background:#EEE;width:35px;"&gt;&amp;nbsp;&lt;a href="ps3/index.htm"&gt;&lt;img src="../images/icons/ps3.gif" alt="PS3" title="PS3 Games"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="item"&gt;&amp;nbsp;&amp;nbsp;7 &lt;a href="#"&gt;Ocean's 12&lt;/a&gt;&lt;/td&gt;&lt;td style="width:35px;"&gt;&amp;nbsp;&lt;a href="movies/index.htm"&gt;&lt;img src="../images/icons/movies.gif" alt="Movie" title="Movies"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="item" id="alt"&gt;&amp;nbsp;&amp;nbsp;8 &lt;a href="#"&gt;Upshift StrikeRacer&lt;/a&gt;&lt;/td&gt;&lt;td style="background:#EEE;width:35px;"&gt;&amp;nbsp;&lt;a href="pc/index.htm"&gt;&lt;img src="../images/icons/pc.gif" alt="PC" title="PC Games"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="item"&gt;&amp;nbsp;&amp;nbsp;9 &lt;a href="#"&gt;Metroid Prime 3&lt;/a&gt;&lt;/td&gt;&lt;td style="width:35px;"&gt;&amp;nbsp;&lt;a href="wii/index.htm"&gt;&lt;img src="../images/icons/wii.gif" alt="Wii" title="Wii Games"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="item" id="alt"&gt;			10 &lt;a href="#"&gt;Crysis&lt;/a&gt;&lt;/td&gt;&lt;td style="background:#EEE;width:35px;"&gt;&amp;nbsp;&lt;a href="pc/index.htm"&gt;&lt;img src="../images/icons/pc.gif" alt="PC" title="PC Games"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="footer"&gt;Browse by: &lt;a href="#"&gt;Month&lt;/a&gt; | &lt;a href="#"&gt;Year&lt;/a&gt; | &lt;a href="#"&gt;Day&lt;/a&gt; | &lt;a href="#"&gt;More&lt;/a&gt;&lt;/td&gt;&lt;td class="footer"&gt;&lt;a href="feeds.htm"&gt;&lt;img src="../images/icons/rss.gif" alt="RSS" title="Find out the Most Popular with regular feeds."&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+							&lt;/table&gt;
+							&lt;table class="mytable"&gt;
+								&lt;tr&gt;&lt;td class="header" id="heavy"&gt;Picture of the Day&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="subheader"&gt;Need For Speed ProStreet&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="item"&gt;&lt;a href="#"&gt;&lt;img class="todayspic" id="mainpage" src="../images/pic_of_day.jpg" alt="Today's Pic" title="NFSPS member ride"&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="footer"&gt;&lt;a href="#"&gt;&amp;laquo; Yesterday&lt;/a&gt; | &lt;a href="#"&gt;Archive&lt;/a&gt; | &lt;a href="#"&gt;Best 2008&lt;/a&gt; | &lt;a href="#"&gt;Tomorrow &amp;raquo;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+							&lt;/table&gt;
+							&lt;table class="mytable"&gt;
+								&lt;tr&gt;&lt;td class="header" id="heavy"&gt;Advertisement&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="subheader"&gt;Please support us and click on this ad.&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="item"&gt;&lt;a href="http://de.ign.com/event.ng/Type%3dclick%26FlightID%3d75809%26AdID%3d83793%26TargetID%3d6630%26Targets%3d6630,6655,10619,12860,13464%26Values%3d31,43,51,60,72,83,90,100,110,150,218,235,240,255,471,1187,1360,1481,1508,1591,2336,2679,3091,3480,3932,4056,4799,6612,6744,8144,8245,8977,8978%26RawValues%3d%26Redirect%3dhttp://clk.atdmt.com/TGM/go/gnxxxptc0010000054tgm/direct/01/WymWNd,bdAuarRjpzdgk"&gt;&lt;img class="ad" id="mainpage" src="../images/ads/POTCO.jpg" title="Pirates of The Caribbean Online" alt="Advertisement"/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="footer"&gt;&lt;a href="_bin/adspace.htm"&gt;Advertise with us&lt;/a&gt; | &lt;a href="_bin/partners.htm"&gt;See our partners&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+							&lt;/table&gt;
+							&lt;table class="mytable"&gt;
+								&lt;tr&gt;&lt;td class="header" id="heavy"&gt;Database Stats&lt;/td&gt;&lt;td class="header" id="light"&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="subheader"&gt;Comprehensive database info &lt;a href="#"&gt;here&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="item"&gt;Total Games:&lt;/td&gt;&lt;td style="color:#000;"&gt;18.600&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="item"&gt;Total Devices:&lt;/td&gt;&lt;td style="color:#000;"&gt;1.000&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="item"&gt;Total Movies:&lt;/td&gt;&lt;td style="color:#000;"&gt;1.000&lt;/td&gt;&lt;/tr&gt;
+								&lt;tr&gt;&lt;td class="item"&gt;Total Softwares:&lt;/td&gt;&lt;td style="color:#000;"&gt;1.180.000&lt;/td&gt;&lt;/tr&gt;
+							&lt;/table&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/table&gt;
+			&lt;/div&gt;
+			&lt;div id="footer"&gt;
+				&lt;table&gt;
+					&lt;tr&gt;
+					&lt;td width="900px"&gt;&amp;copy; 2008 Codin Victor | Best Viewed in &lt;a href="http://www.microsoft.com"&gt;Internet Explorer 7&lt;/a&gt; @ 1024x768. &lt;a href="contact.htm"&gt;Contact us&lt;/a&gt; if you have problems displaying correctly this page.&lt;/td&gt;
+					&lt;td&gt;&lt;a href="#home"&gt;&lt;img name="r2t" onMouseOver="MM_swapImage('r2t','','../images/returntotop_h.png',1)" onMouseOut="MM_swapImgRestore()" src="../images/returntotop.png" title="Return To Top" alt="Ret2Top"/&gt;&lt;/a&gt;&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/table&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>70</value>
+  </metadata>
+</root>
